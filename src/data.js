@@ -1,4 +1,8 @@
-import { images } from "./images";
+import tour1 from "./images/tour-1.jpeg";
+import tour2 from "./images/tour-2.jpeg";
+import tour3 from "./images/tour-3.jpeg";
+import tour4 from "./images/tour-4.jpeg";
+import tour5 from "./images/tour-5.jpeg";
 
 export const pageLinks = [
   { id: 1, href: "#home", text: "home" },
@@ -37,7 +41,7 @@ export const services = [
 export const tours = [
   {
     id: 1,
-    img: images.tour1,
+    img: tour1,
     date: "august 26th, 2020",
     title: "Tibet Adventure",
     info: " Lorem ipsum dolor sit amet, consectetur adipisicing elit.Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
@@ -46,7 +50,7 @@ export const tours = [
   },
   {
     id: 2,
-    img: images.tour2,
+    img: tour2,
     date: "august 26th, 2020",
     title: "Tibet Adventure",
     info: " Lorem ipsum dolor sit amet, consectetur adipisicing elit.Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
@@ -55,7 +59,7 @@ export const tours = [
   },
   {
     id: 3,
-    img: images.tour3,
+    img: tour3,
     date: "august 26th, 2020",
     title: "Tibet Adventure",
     info: " Lorem ipsum dolor sit amet, consectetur adipisicing elit.Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
@@ -64,7 +68,7 @@ export const tours = [
   },
   {
     id: 4,
-    img: images.tour4,
+    img: tour4,
     date: "august 26th, 2020",
     title: "Tibet Adventure",
     info: " Lorem ipsum dolor sit amet, consectetur adipisicing elit.Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
@@ -73,7 +77,7 @@ export const tours = [
   },
   {
     id: 5,
-    img: images.tour5,
+    img: tour5,
     date: "august 26th, 2020",
     title: "Tibet Adventure",
     info: " Lorem ipsum dolor sit amet, consectetur adipisicing elit.Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
